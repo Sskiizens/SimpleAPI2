@@ -7,32 +7,18 @@ trigger:
 - master
 
 pool:
-  vmImage: vs2017
+  vmImage: ubuntu-latest
 
 variables:
   buildConfiguration: 'release'
 
 steps:
-- task: DotNetCoreCLI@2
-  displayName: Restore
-  inputs:
-    command: restore
-    projects: '$(Parameters.RestoreBuildProjects)'
 
 - task: DotNetCoreCLI@2
   displayName: Build
   inputs:
     projects: '$(Parameters.RestoreBuildProjects)'
     arguments: '--configuration $(BuildConfiguration)'
-
-- task: DotNetCoreCLI@2
-  displayName: Publish
-  inputs:
-    command: publish
-    publishWebProjects: True
-    arguments: '--configuration $(BuildConfiguration) --output "$(build.artifactstagingdirectory)"'
-    workingDirectory: 'SimpleAPI2'
-
 - task: DotNetCoreCLI@2
   inputs:
     command: test
