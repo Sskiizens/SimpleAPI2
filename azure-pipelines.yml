@@ -16,6 +16,8 @@ steps:
 - script: sudo apt update 
 - script: sudo apt install apt-transport-https
 - script: sudo apt install dotnet-sdk-5.0
+- script: sudo apt install tree
+- script: tree
 - script: dotnet add package Microsoft.EntityFrameworkCore
 - task: DotNetCoreCLI@2
   inputs:
