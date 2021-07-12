@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: vs-2017
+  vmImage: vs2017
 
 variables:
   buildConfiguration: 'release'
