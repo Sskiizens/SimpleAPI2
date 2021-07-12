@@ -13,9 +13,9 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- script: apt update 
-- script: apt install apt-transport-https
-- script: apt install dotnet-sdk-5.0
+- script: sudo apt update 
+- script: sudo apt install apt-transport-https
+- script: sudo apt install dotnet-sdk-5.0
 - script: dotnet add package Microsoft.EntityFrameworkCore
 - task: DotNetCoreCLI@2
   inputs:
