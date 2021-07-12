@@ -11,7 +11,4 @@ C:\Users\grane\source\repos\SimpleAPI2\src\SimpleAPI\obj\Debug\netcoreapp2.2\Sim
 C:\Users\grane\source\repos\SimpleAPI2\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.RazorTargetAssemblyInfo.cache
 C:\Users\grane\source\repos\SimpleAPI2\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.dll
 C:\Users\grane\source\repos\SimpleAPI2\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.pdb
-C:\Users\grane\source\repos\SimpleAPI2\src\SimpleAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\Users\grane\source\repos\SimpleAPI2\src\SimpleAPI\bin\Debug\netcoreapp2.2\appsettings.json
-C:\Users\grane\source\repos\SimpleAPI2\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.csproj.AssemblyReference.cache
-C:\Users\grane\source\repos\SimpleAPI2\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.genruntimeconfig.cache
+C:\Users\grane\source\repos\SimpleAPI2\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.csprojAssemblyReference.cache

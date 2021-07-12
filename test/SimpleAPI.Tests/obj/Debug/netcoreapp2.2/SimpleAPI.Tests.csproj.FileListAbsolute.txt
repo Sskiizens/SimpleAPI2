@@ -14,10 +14,4 @@ C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\obj\Debug\netcoreapp
 C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.csproj.CopyComplete
 C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.dll
 C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.pdb
-C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.deps.json
-C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.runtimeconfig.json
-C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.runtimeconfig.dev.json
-C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\appsettings.json
-C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.csproj.AssemblyReference.cache
-C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.genruntimeconfig.cache
+C:\Users\grane\source\repos\SimpleAPI2\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.csprojAssemblyReference.cache
