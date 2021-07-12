@@ -18,7 +18,7 @@ steps:
 - script: sudo apt install dotnet-sdk-5.0
 - script: sudo apt install tree
 - script: tree
-- script: dotnet add test/SimpleAPI.Tests/SimpleAPI.Tests.csproj package Microsoft.EntityFrameworkCore
+- script: dotnet add test/SimpleAPI.Tests/SimpleAPI.Tests.csproj package Microsoft.AspNetCore
 - task: DotNetCoreCLI@2
   inputs:
     command: test
